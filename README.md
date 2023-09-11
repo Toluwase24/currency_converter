@@ -1,0 +1,8 @@
+# currency_converter
+Developed a Java currency converter application utilizing Java AWT for the user interface, including features such as importing necessary libraries (e.g., java.awt.Color, java.awt.Cursor) and UI components customization. The application featured a modern, user-friendly interface with a responsive design.
+
+Integrated Spring Boot framework to enhance the application's scalability and maintainability, ensuring efficient data handling and management of currency conversion rates.
+
+Implemented comprehensive unit testing with JUnit to verify the functionality and reliability of the application. Conducted thorough testing to identify and rectify potential issues, guaranteeing a robust solution.
+
+Additionally, integrated JSON file handling to facilitate data storage and retrieval, providing users with the ability to customize their currency preferences and update conversion rates seamlessly.
